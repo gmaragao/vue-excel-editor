@@ -263,9 +263,9 @@
 <script>
 import Vue from 'vue'
 import VueExcelFilter from './VueExcelFilter.vue'
-import PanelFilter from './PanelFilter.vue'
-import PanelSetting from './PanelSetting.vue'
-import PanelFind from './PanelFind.vue'
+import PanelFilter from './panelFilter.vue'
+import PanelSetting from './panelSetting.vue'
+import PanelFind from './panelFind.vue'
 import DatePicker from 'vue2-datepicker'
 import XLSX from 'xlsx'
 
